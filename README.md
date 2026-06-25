@@ -77,7 +77,8 @@ blinkit-data-analysis-dashboard/
 
 ## 📷 Dashboard
 
-![Blinkit Dashboard](dashboard-preview.png)
+![Blinkit Dashboard](Dashboard-preview.jpeg)
+
 
 ---
 
