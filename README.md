@@ -68,11 +68,9 @@ The dashboard enables users to explore sales performance across outlet types, lo
 
 ```text
 blinkit-data-analysis-dashboard/
-│── Blinkit_Dashboard.xlsx
-│── dashboard.png
-│── dataset.csv
-│── README.md
-```
+BlinkIT Grocery Data Excel.xlsx
+screenshot.jpeg
+README.md
 
 ## 🚀 Dashboard Preview
 
