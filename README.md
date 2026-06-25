@@ -88,6 +88,10 @@ README.md
 
 ---
 
+> **Note:** This project was developed as part of my Excel learning journey using a publicly available educational dataset and tutorial. I recreated the dashboard, performed the analysis, and documented the project to strengthen my Excel and data analytics skills.
+
+---
+
 ## 👩‍💻 Author
 
 **Sanika Jadhav**
